@@ -34,8 +34,12 @@ I'm a Software Engineer @ Mercado Libre
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>Public GitHub Stats</b>
 
 <a href="http://www.github.com/roliveiravictor"><img src="https://github-readme-stats.vercel.app/api?username=roliveiravictor&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="roliveiravictor's GitHub stats" /></a>
 
 <a href="http://www.github.com/roliveiravictor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roliveiravictor&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<b>Private GitHub Stats</b>
+
+<img width="733" alt="Screen Shot 2022-04-25 at 13 46 21" src="https://user-images.githubusercontent.com/33610271/165135526-8d354e25-0dae-4bf2-844b-a0851e2fa992.png">
