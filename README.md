@@ -5,7 +5,7 @@ I'm a Software Engineer @ Mercado Libre
 ---------------------------------------
 
 * 🌍  I'm based in São Paulo
-* 🖥️  See my portfolio at [Wix](http://roliveiravictor.wixsite.com/home)
+* 🖥️  See my portfolio at [Linktree](https://linktr.ee/roliveiravictor)
 * ✉️  You can contact me at [roliveira.victor@gmail.com](mailto:roliveira.victor@gmail.com)
 * 🚀  I'm currently working on [Buy Me Coffe](http://https://play.google.com/store/apps/details?id=br.com.stonetree.coffee&hl=en&gl=US)
 * 🧠  I'm learning (as a continuous passion) Android OS
