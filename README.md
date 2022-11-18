@@ -1,4 +1,4 @@
-Hi 👋 My name is Victor Rocha
+Hi 👋 My name is Victor Oliveira
 =============================
 
 I'm a Software Engineer @ Mercado Libre
@@ -44,7 +44,3 @@ I'm a Software Engineer @ Mercado Libre
 <a href="http://www.github.com/roliveiravictor"><img src="https://activity-graph.herokuapp.com/graph?username=roliveiravictor&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/roliveiravictor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roliveiravictor&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Private GitHub Stats | Last Year - 1432 Contributions</b>
-
-<img width="733" alt="Screen Shot 2022-04-25 at 13 46 21" src="https://user-images.githubusercontent.com/33610271/165135526-8d354e25-0dae-4bf2-844b-a0851e2fa992.png">
