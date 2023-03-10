@@ -1,7 +1,7 @@
 Hi 👋 My name is Victor Oliveira
 =============================
 
-I'm a Software Engineer @ Mercado Libre
+I'm a Staff Software Engineer @ Mercado Libre
 ---------------------------------------
 
 * 🌍  I'm based in São Paulo
